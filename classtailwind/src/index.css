@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@font-face {
+  font-family:Neue ;
+  src: url(./public/font/NeueMontreal-Regular.woff2);
+}
+/* #content1::after{
+  content: "\a";
+  white-space: pre;
+}
+#content2::before{
+  content: "\a";
+  white-space: pre;
+} */
+
+main{
+  background-color: #000;
+  height: auto;
+  
+  padding:0px 15px
+}
