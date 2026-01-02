@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+main{
+    background-color: #1d1d1d;
+    width: 100vw;
+    min-height: 100vh;
+    padding:10px;
+}
